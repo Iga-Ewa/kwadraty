@@ -1,0 +1,17 @@
+
+
+body{
+    background-color:grey;
+}
+h1{
+    color:white;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: block;
+    margin: 10px;
+    background-color:rgb(224, 187, 20);
+}
